@@ -1,6 +1,6 @@
 {
   "name": "@jaden-hoenes/lit-flow-ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ready-made nodes, edges and panels for Lit Flow flows: node cards, schema and shape nodes, zoom controls, node search and devtools.",
   "keywords": [
     "web-components",
