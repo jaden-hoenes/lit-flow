@@ -1,6 +1,6 @@
 {
   "name": "@jaden-hoenes/lit-flow-pro",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Editing features for Lit Flow flows: undo/redo, clipboard, helper lines, auto layout, animated positions, expand/collapse and grouping.",
   "keywords": [
     "undo-redo",
